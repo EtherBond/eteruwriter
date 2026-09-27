@@ -1,5 +1,6 @@
 # 醚键打字机（eteruwriter）
 
+因为主包在使用学⚪通的时候有雷霆作业不让粘贴，所以写了个小工具可以一个一个字自动打进去，顺便开个源吧，希望喜欢喵。
 把文字逐个字符输入到当前获得焦点的 Windows 程序中。
 
 ## 使用方法
@@ -19,7 +20,7 @@
 
 ## 文件
 
-- `eteruwriter.exe`：可直接运行的 Windows 版本；当前尚未上传到仓库。
+- `eteruwriter.exe`：可直接运行的 Windows 版本。
 - `eteruwriter.py`：程序源码。
 - `LICENSE`：MIT 许可证。
 
