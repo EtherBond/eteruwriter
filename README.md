@@ -19,7 +19,7 @@
 
 ## 文件
 
-- `eteruwriter.exe`：可直接运行的 Windows 版本，无需单独安装 Python。
+- `eteruwriter.exe`：可直接运行的 Windows 版本；当前尚未上传到仓库。
 - `eteruwriter.py`：程序源码。
 - `LICENSE`：MIT 许可证。
 
